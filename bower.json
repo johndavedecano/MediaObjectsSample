@@ -1,0 +1,18 @@
+{
+  "name": "mediaobjects",
+  "version": "0.0.0",
+  "authors": [
+    "JOhn Dave Decano <johndavedecano@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
